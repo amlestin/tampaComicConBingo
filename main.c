@@ -60,6 +60,7 @@ main()
 
     printf("Live Long and May the Force Be Ever in Your Favor!");
 
+    fclose(fileData);
     return 0;
 }
 
